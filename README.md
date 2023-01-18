@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> 一个用于学习GIS相关技术的项目。
+
+主要涉及技术栈：
+ - React全家桶 + TS
+ - svg库：D3.js
+ - Canvas API: Echarts
+ - WebGL 2D: Pixi.js
+ - WebGL 3D: Three.js
+ - 地图引擎： Mapbox GL、Leaflet、Openleayers、Cesium
 
 ## Available Scripts
 
@@ -39,8 +47,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Introduce
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
